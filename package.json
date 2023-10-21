@@ -1,0 +1,21 @@
+{
+  "name": "theme",
+  "displayName": "Ave Theme",
+  "description": "A simple theme by Averroes Digital Islamic School",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ave Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Ave Theme-color-theme.json"
+      }
+    ]
+  }
+}
